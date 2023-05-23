@@ -1,0 +1,23 @@
+/*Asi se pone un comentario en css*/
+body{
+    background-color: #e8f0f0;
+    color:black;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 , p{
+    color:#2087d8;
+}
+
+h3{
+    font-size: 30px;
+}
+
+img{
+    width: 300px;
+    height: 180px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 2px;
+    margin: 2px;
+}
